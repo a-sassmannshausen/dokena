@@ -1,0 +1,26 @@
+{
+    "author": "Komputilo",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "dokena",
+    "pebble": {
+        "displayName": "Dokena Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "moddable",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery"
+        ],
+        "uuid": "354f9b6a-81b2-461d-93df-4341b6f88af8",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
